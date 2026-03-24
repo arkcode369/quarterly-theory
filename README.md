@@ -1,6 +1,6 @@
 # Quarterly Theory - Daye's Course Notes & Summaries
 
-Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total).
+Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (42 video total).
 
 ## Status Progress
 
@@ -47,8 +47,9 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total
 | 39 | Market Overview and Advanced Order Flow | ✅ Done |
 | 40 | Advanced Price Action Lecture (Month 4, Video 7) | ✅ Done |
 | 41 | Intro to Intermarket Trades (Month 4, Video 8) | ✅ Done |
+| 42 | Briefing: Teori Kuartal dan Triad Intermarket | ✅ Done |
 
-**Progress: 39/41 video dirangkum (video 19 & 21 belum di-upload, video 4 skip)**
+**Progress: 40/42 video dirangkum (video 19 & 21 belum di-upload, video 4 skip)**
 
 ---
 
@@ -129,6 +130,12 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total
 - **Parity Cycle** - Titik kesetaraan antar correlated markets pada weekly cycle; divergence setelah parity = entry signal
 - **3rd Candlestick Concept** - Candlestick ke-3 setelah parity breakdown = confirmation entry
 - **Advanced Order Flow** - Pendalaman order flow dengan intermarket analysis
+
+### Advanced Concepts (Video 42)
+- **Triad Intermarket Baru** - T-Bond Futures (UB/ZB) + EUR + GBP menggantikan DXY; obligasi mengendalikan semua market
+- **Wicks as Gaps** - Sumbu candle = gaps/imbalances; area yang harus diisi oleh harga
+- **MSS Tidak Relevan** - Fokus pada SMT di waktu yang tepat, bukan market structure shift tradisional
+- **Seasonality Switch** - Pembukaan April (Q2) = volatilitas tinggi; gagal tembus high Q1 = tanda bearish
 
 ---
 
