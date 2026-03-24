@@ -1,6 +1,6 @@
 # Quarterly Theory - Daye's Course Notes & Summaries
 
-Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total).
+Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total).
 
 ## Status Progress
 
@@ -33,15 +33,19 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 | 25 | Market Analysis (03-06-2024) | ✅ Done |
 | 26 | Market Analysis (03-10-2024) | ✅ Done |
 | 27 | Market Overview | ✅ Done |
-| 28 | *(Belum di-upload)* | 🔲 Pending |
-| 29 | *(Belum di-upload)* | 🔲 Pending |
+| 28 | Market Review & Lecture: In Depth Market Analysis | ✅ Done |
+| 29 | Market Analysis & Lecture: Navigating FOMC Week | ✅ Done |
 | 30 | *(Belum di-upload)* | 🔲 Pending |
-| 31 | *(Belum di-upload)* | 🔲 Pending |
-| 32 | *(Belum di-upload)* | 🔲 Pending |
-| 33 | *(Belum di-upload)* | 🔲 Pending |
+| 31 | Market Overview | ⚠️ PDF (placeholder) |
+| 32 | Market Analysis | ⚠️ PDF (placeholder) |
+| 33 | Advanced 4 Stage | ⚠️ PDF (placeholder) |
 | 34 | Advanced PA Lecture | ✅ Done |
+| 35 | Introduction to Intermarket SSMT | ⚠️ PDF (placeholder) |
+| 36 | Market Analysis | ⚠️ PDF (placeholder) |
+| 37 | Market Overview | ⚠️ PDF (placeholder) |
+| 38 | Advanced PA Lecture (Liquidity Dispersal) | ⚠️ PDF (placeholder) |
 
-**Progress: 24/34 video dirangkum**
+**Progress: 32/38 video dirangkum (7 PDF placeholder, perlu diekstrak manual)**
 
 ---
 
@@ -53,7 +57,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 │   ├── 01-liquidity-and-imbalances.md
 │   ├── 02-deeper-dive-quarterly-theory.md
 │   ├── ...
-│   └── 34-advanced-pa-lecture.md
+│   └── 38-advanced-pa-lecture-liquidity-dispersal.md
 └── raw-notes/                 # Catatan mentah / tambahan
 ```
 
@@ -104,8 +108,16 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 - **QT Alignment + SSMT** - Combine monthly/weekly alignment dengan SSMT; tidak perlu HTF PD array
 - **Bitcoin/Ethereum Study** - Gunakan Weekly TF, Yearly cycle, Karken data provider
 
+### Advanced Concepts (Video 28-38)
+- **Futures + Index SSMT** - SSMT antara futures dan index pair dari market yang sama; hanya valid untuk pair itu
+- **SSMT + SSMT** - Combining dua SSMT; failure swing/2nd SSMT jika satu market expand di atas SSMT pertama
+- **Confirmed SSMT + Take** - Swing point dari confirmed SSMT harus di-expand; gunakan closest swing point
+- **Confirmed SSMT + Standard Deviation** - Entry di 0.5 fib level, stop loss di 1 level, target previous quarter's highs
+- **Intermarket SSMT** - SSMT lintas market berbeda (Forex/Indices/Crypto/Commodities)
+- **Liquidity Dispersal** - Bagaimana liquidity tersebar setelah sweep/expansion dan efeknya
+
 ---
 
 ## Cara Kontribusi
 
-Repo ini akan terus di-update seiring video 11-33 di-upload dan dirangkum.
+Repo ini akan terus di-update seiring video yang belum di-upload dan PDF placeholders dilengkapi.
