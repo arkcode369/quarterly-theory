@@ -35,20 +35,20 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total
 | 27 | Market Overview | ✅ Done |
 | 28 | Market Review & Lecture: In Depth Market Analysis | ✅ Done |
 | 29 | Market Analysis & Lecture: Navigating FOMC Week | ✅ Done |
-| 30 | Price Action | ⚠️ PDF (placeholder) |
-| 31 | Market Overview | ⚠️ PDF (placeholder) |
-| 32 | Market Analysis | ⚠️ PDF (placeholder) |
-| 33 | Advanced 4 Stage | ⚠️ PDF (placeholder) |
+| 30 | Price Action (Crack in Correlation + Sprint) | ✅ Done |
+| 31 | Market Overview (Confirmed SSMT v2, AMDX) | ✅ Done |
+| 32 | Market Analysis (Yearly Cycle SSMT) | ✅ Done |
+| 33 | Advanced 4 Stage | ✅ Done |
 | 34 | Advanced PA Lecture | ✅ Done |
-| 35 | Introduction to Intermarket SSMT | ⚠️ PDF (placeholder) |
-| 36 | Market Analysis | ⚠️ PDF (placeholder) |
-| 37 | Market Overview | ⚠️ PDF (placeholder) |
-| 38 | Advanced PA Lecture (Liquidity Dispersal) | ⚠️ PDF (placeholder) |
-| 39 | Market Overview and Advanced Order Flow | ⚠️ PDF (placeholder) |
+| 35 | Introduction to Intermarket SSMT | ✅ Done |
+| 36 | Market Analysis (Candlestick Psychology) | ✅ Done |
+| 37 | Market Overview (Induces vs Sweeps) | ✅ Done |
+| 38 | Advanced PA Lecture (Liquidity Dispersal) | ✅ Done |
+| 39 | Market Overview and Advanced Order Flow | ✅ Done |
 | 40 | Advanced Price Action Lecture (Month 4, Video 7) | ✅ Done |
 | 41 | Intro to Intermarket Trades (Month 4, Video 8) | ✅ Done |
 
-**Progress: 38/41 video dirangkum (8 PDF placeholder, 1 pending upload, 1 skip)**
+**Progress: 39/41 video dirangkum (video 19 & 21 belum di-upload, video 4 skip)**
 
 ---
 
@@ -117,7 +117,11 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total
 - **Confirmed SSMT + Take** - Swing point dari confirmed SSMT harus di-expand; gunakan closest swing point
 - **Confirmed SSMT + Standard Deviation** - Entry di 0.5 fib level, stop loss di 1 level, target previous quarter's highs
 - **Intermarket SSMT** - SSMT lintas market berbeda (Forex/Indices/Crypto/Commodities)
-- **Liquidity Dispersal** - Bagaimana liquidity tersebar setelah sweep/expansion dan efeknya
+- **Liquidity Dispersal** - Bagaimana liquidity tersebar setelah sweep/expansion; 4 fase: building → sweep → dispersal → new pool
+- **Crack in Correlation + Sprint** - Satu market expand sementara lain tidak (crack), diikuti expansion cepat (sprint)
+- **Induces vs Sweeps** - Induce = memancing tanpa break; Sweep = benar-benar break level liquidity
+- **Advanced 4 Stage** - Setiap cycle punya 4 stage sendiri; HTF stage mengandung LTF stages; SSMT di stage transition
+- **Candlestick Psychology** - Psikologi di balik candlestick formation dalam konteks quarterly theory
 
 ### Advanced Concepts (Video 39-41)
 - **AMDX / XAMD** - Accumulation → Manipulation → Distribution → X pattern; XAMD valid saat SSMT antara Q1 dan Q2
