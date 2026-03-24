@@ -16,14 +16,14 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 | 8 | Introduction to Sequential SMT (GAME CHANGER) | ✅ Done |
 | 9 | Market Analysis (1-28-2024) | ✅ Done |
 | 10 | The Reason Behind Price Reversals (SMT Study) | ✅ Done |
-| 11 | *(Belum di-upload)* | 🔲 Pending |
-| 12 | *(Belum di-upload)* | 🔲 Pending |
-| 13 | *(Belum di-upload)* | 🔲 Pending |
-| 14 | *(Belum di-upload)* | 🔲 Pending |
-| 15 | *(Belum di-upload)* | 🔲 Pending |
-| 16 | *(Belum di-upload)* | 🔲 Pending |
-| 17 | *(Belum di-upload)* | 🔲 Pending |
-| 18 | *(Belum di-upload)* | 🔲 Pending |
+| 11 | Market Analysis (2-04-24) | ✅ Done |
+| 12 | Introduction to Revolving True Opens - Part 1 | ✅ Done |
+| 13 | Market Analysis (2-11-24) | ✅ Done |
+| 14 | Price Action Review (2-11-24) | ✅ Done |
+| 15 | Introduction to Hidden Sequential SMT | ✅ Done |
+| 16 | Live Back Testing Session | ✅ Done |
+| 17 | Market Analysis (2-18-24) | ✅ Done |
+| 18 | Price Action Lecture 2.0 (Model 1) | ✅ Done |
 | 19 | *(Belum di-upload)* | 🔲 Pending |
 | 20 | *(Belum di-upload)* | 🔲 Pending |
 | 21 | *(Belum di-upload)* | 🔲 Pending |
@@ -41,7 +41,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 | 33 | *(Belum di-upload)* | 🔲 Pending |
 | 34 | Advanced PA Lecture | ✅ Done |
 
-**Progress: 10/34 video dirangkum**
+**Progress: 18/34 video dirangkum**
 
 ---
 
@@ -85,6 +85,14 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 - **Seasonal Tendencies** - Pola musiman DXY mempengaruhi semua market
 - **NWOG/NDOG Indicator** - Untuk menemukan true weekly opening gaps
 - **Standard Deviation** - Measured range dari consolidation, projected ke atas/bawah
+
+### Advanced Concepts (Video 11-18)
+- **Revolving True Open** - Candlestick opening pertama Q4; requires SSMT + new weekly gap + QT alignment
+- **Hidden Sequential SMT** - SSMT tersembunyi dalam struktur QT, menggunakan breaker blocks
+- **Premium & Discount Ranges** - Dibagi menjadi 4 sub-ranges (1/4 - 4/4); SSMT high probability di 1/4 dan 4/4
+- **Model 1** - Full trading model: HTF bias → SSMT → LTF entry pada breaker block/FVG/BPR
+- **Friday NFP Liquidity** - Friday minggu pertama bulan dengan NFP/Unemployment digunakan untuk definisi buyside/sellside
+- **Wednesday/Thursday SSMT** - Q3 (Wed) dan Q4 (Thu) pada weekly cycle = high probability SSMT Sequential
 
 ---
 
