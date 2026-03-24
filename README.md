@@ -25,14 +25,14 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 | 17 | Market Analysis (2-18-24) | ✅ Done |
 | 18 | Price Action Lecture 2.0 (Model 1) | ✅ Done |
 | 19 | *(Belum di-upload)* | 🔲 Pending |
-| 20 | *(Belum di-upload)* | 🔲 Pending |
+| 20 | Supplementary Lesson for Model #1 | ✅ Done |
 | 21 | *(Belum di-upload)* | 🔲 Pending |
 | 22 | *(Belum di-upload)* | 🔲 Pending |
-| 23 | *(Belum di-upload)* | 🔲 Pending |
-| 24 | *(Belum di-upload)* | 🔲 Pending |
-| 25 | *(Belum di-upload)* | 🔲 Pending |
-| 26 | *(Belum di-upload)* | 🔲 Pending |
-| 27 | *(Belum di-upload)* | 🔲 Pending |
+| 23 | Price Action Lecture 4 (03-06-2024) | ✅ Done |
+| 24 | Market Overview & Unscheduled Lecture (03-07-2024) | ✅ Done |
+| 25 | Market Analysis (03-06-2024) | ✅ Done |
+| 26 | Market Analysis (03-10-2024) | ✅ Done |
+| 27 | Market Overview | ✅ Done |
 | 28 | *(Belum di-upload)* | 🔲 Pending |
 | 29 | *(Belum di-upload)* | 🔲 Pending |
 | 30 | *(Belum di-upload)* | 🔲 Pending |
@@ -41,7 +41,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 | 33 | *(Belum di-upload)* | 🔲 Pending |
 | 34 | Advanced PA Lecture | ✅ Done |
 
-**Progress: 18/34 video dirangkum**
+**Progress: 24/34 video dirangkum**
 
 ---
 
@@ -93,6 +93,16 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (34 video total
 - **Model 1** - Full trading model: HTF bias → SSMT → LTF entry pada breaker block/FVG/BPR
 - **Friday NFP Liquidity** - Friday minggu pertama bulan dengan NFP/Unemployment digunakan untuk definisi buyside/sellside
 - **Wednesday/Thursday SSMT** - Q3 (Wed) dan Q4 (Thu) pada weekly cycle = high probability SSMT Sequential
+
+### Advanced Concepts (Video 20-27)
+- **Quadrennial Cycle** - Hanya untuk Forex; bisa combine DXY + futures (inversely correlated)
+- **Precision Swing Points** - Bisa overlap; terbentuk saat 1 dari 3 correlated markets tidak masuk BPR
+- **Breakaway Gap** - FVG berikutnya setelah FVG sebelumnya ter-filled oleh wick/body
+- **Magneto Effect** - SSMT antara high/low cycle yang sama; SSMT pertama = target, kedua = trend
+- **Parshell SSMT** - SSMT pada 2nd candlestick (bukan highest/lowest), hanya pada wicks
+- **Turtle Soup (Advanced)** - Lowest wick setelah quarterly SSMT + sweep = breaker block entry
+- **QT Alignment + SSMT** - Combine monthly/weekly alignment dengan SSMT; tidak perlu HTF PD array
+- **Bitcoin/Ethereum Study** - Gunakan Weekly TF, Yearly cycle, Karken data provider
 
 ---
 
