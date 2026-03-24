@@ -1,6 +1,6 @@
 # Quarterly Theory - Daye's Course Notes & Summaries
 
-Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total).
+Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (41 video total).
 
 ## Status Progress
 
@@ -27,7 +27,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total
 | 19 | *(Belum di-upload)* | 🔲 Pending |
 | 20 | Supplementary Lesson for Model #1 | ✅ Done |
 | 21 | *(Belum di-upload)* | 🔲 Pending |
-| 22 | *(Belum di-upload)* | 🔲 Pending |
+| 22 | Market Overview & Lecture (3-3-2024) | ✅ Done |
 | 23 | Price Action Lecture 4 (03-06-2024) | ✅ Done |
 | 24 | Market Overview & Unscheduled Lecture (03-07-2024) | ✅ Done |
 | 25 | Market Analysis (03-06-2024) | ✅ Done |
@@ -35,7 +35,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total
 | 27 | Market Overview | ✅ Done |
 | 28 | Market Review & Lecture: In Depth Market Analysis | ✅ Done |
 | 29 | Market Analysis & Lecture: Navigating FOMC Week | ✅ Done |
-| 30 | *(Belum di-upload)* | 🔲 Pending |
+| 30 | Price Action | ⚠️ PDF (placeholder) |
 | 31 | Market Overview | ⚠️ PDF (placeholder) |
 | 32 | Market Analysis | ⚠️ PDF (placeholder) |
 | 33 | Advanced 4 Stage | ⚠️ PDF (placeholder) |
@@ -44,8 +44,11 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total
 | 36 | Market Analysis | ⚠️ PDF (placeholder) |
 | 37 | Market Overview | ⚠️ PDF (placeholder) |
 | 38 | Advanced PA Lecture (Liquidity Dispersal) | ⚠️ PDF (placeholder) |
+| 39 | Market Overview and Advanced Order Flow | ⚠️ PDF (placeholder) |
+| 40 | Advanced Price Action Lecture (Month 4, Video 7) | ✅ Done |
+| 41 | Intro to Intermarket Trades (Month 4, Video 8) | ✅ Done |
 
-**Progress: 32/38 video dirangkum (7 PDF placeholder, perlu diekstrak manual)**
+**Progress: 38/41 video dirangkum (8 PDF placeholder, 1 pending upload, 1 skip)**
 
 ---
 
@@ -57,7 +60,7 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total
 │   ├── 01-liquidity-and-imbalances.md
 │   ├── 02-deeper-dive-quarterly-theory.md
 │   ├── ...
-│   └── 38-advanced-pa-lecture-liquidity-dispersal.md
+│   └── 41-intermarket-trades-month4-video8.md
 └── raw-notes/                 # Catatan mentah / tambahan
 ```
 
@@ -115,6 +118,13 @@ Rangkuman dan catatan dari kursus **Quarterly Theory** oleh Daye (38 video total
 - **Confirmed SSMT + Standard Deviation** - Entry di 0.5 fib level, stop loss di 1 level, target previous quarter's highs
 - **Intermarket SSMT** - SSMT lintas market berbeda (Forex/Indices/Crypto/Commodities)
 - **Liquidity Dispersal** - Bagaimana liquidity tersebar setelah sweep/expansion dan efeknya
+
+### Advanced Concepts (Video 39-41)
+- **AMDX / XAMD** - Accumulation → Manipulation → Distribution → X pattern; XAMD valid saat SSMT antara Q1 dan Q2
+- **Intermarket Trades** - Trading menggunakan korelasi antar market berbeda (Forex vs Indices vs Crypto)
+- **Parity Cycle** - Titik kesetaraan antar correlated markets pada weekly cycle; divergence setelah parity = entry signal
+- **3rd Candlestick Concept** - Candlestick ke-3 setelah parity breakdown = confirmation entry
+- **Advanced Order Flow** - Pendalaman order flow dengan intermarket analysis
 
 ---
 
